@@ -1,0 +1,120 @@
+create.o create.o: create.c \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/features.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/libio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/_G_config.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/wchar.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/gconv.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/stdio_lim.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sys_errlist.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/stdio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdlib.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/types.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/endian.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/endian.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/select.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/select.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sigset.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/sysmacros.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/pthreadtypes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sched.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/alloca.h \
+  ../libtransmission/transmission.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdint.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h \
+  ../libtransmission/error.h ../libtransmission/file.h \
+  ../libtransmission/makemeta.h ../libtransmission/tr-getopt.h \
+  ../libtransmission/utils.h ../libtransmission/version.h units.h
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/features.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/libio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/_G_config.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/wchar.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/gconv.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/stdio_lim.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sys_errlist.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/stdio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdlib.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/types.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/endian.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/endian.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/select.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/select.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sigset.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/sysmacros.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/pthreadtypes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sched.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/alloca.h:
+
+../libtransmission/transmission.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdint.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h:
+
+../libtransmission/error.h:
+
+../libtransmission/file.h:
+
+../libtransmission/makemeta.h:
+
+../libtransmission/tr-getopt.h:
+
+../libtransmission/utils.h:
+
+../libtransmission/version.h:
+
+units.h:

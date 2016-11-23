@@ -1,0 +1,48 @@
+wildmat.o wildmat.o: wildmat.c transmission.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/features.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdint.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/time.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h \
+  utils.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h
+
+transmission.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/features.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdint.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/time.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h:
+
+utils.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h:

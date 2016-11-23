@@ -1,0 +1,181 @@
+platform-quota.o platform-quota.o: platform-quota.c \
+  /opt/powerpc/powerpc-603e-linux/sys-include/errno.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/features.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/errno.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/linux/errno.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/asm/errno.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdlib.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/types.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/endian.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/endian.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/select.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/select.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sigset.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/sysmacros.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/pthreadtypes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sched.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/alloca.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/string.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/string.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/string2.h \
+  /opt/include/event2/util.h /opt/include/event2/event-config.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdint.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/netdb.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/netinet/in.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/socket.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/uio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/uio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/socket.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/limits.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sockaddr.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/asm/socket.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/in.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/byteswap.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/rpc/netdb.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/netdb.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/unistd.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/posix_opt.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/confname.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/getopt.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/quota.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/mntent.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/paths.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/statvfs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/statvfs.h \
+  transmission.h /opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h \
+  utils.h platform-quota.h
+
+/opt/powerpc/powerpc-603e-linux/sys-include/errno.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/features.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/errno.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/linux/errno.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/asm/errno.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdlib.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/types.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/endian.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/endian.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/select.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/select.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sigset.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/sysmacros.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/pthreadtypes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sched.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/alloca.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/string.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/string.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/string2.h:
+
+/opt/include/event2/util.h:
+
+/opt/include/event2/event-config.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdint.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/netdb.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/netinet/in.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/socket.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/uio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/uio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/socket.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/limits.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sockaddr.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/asm/socket.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/in.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/byteswap.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/rpc/netdb.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/netdb.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/unistd.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/posix_opt.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/confname.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/getopt.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/quota.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/mntent.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/paths.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/statvfs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/statvfs.h:
+
+transmission.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h:
+
+utils.h:
+
+platform-quota.h:

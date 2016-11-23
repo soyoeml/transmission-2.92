@@ -1,0 +1,226 @@
+remote.o remote.o: remote.c \
+  /opt/powerpc/powerpc-603e-linux/sys-include/assert.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/features.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/ctype.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/endian.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/endian.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/math.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/huge_val.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/nan.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/mathdef.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/mathcalls.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/mathinline.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/libio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/_G_config.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/wchar.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/gconv.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/stdio_lim.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sys_errlist.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/stdio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdlib.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/types.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/select.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/select.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sigset.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/sysmacros.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/pthreadtypes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sched.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/alloca.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/string.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/string.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/string2.h \
+  /opt/include/event2/buffer.h /opt/include/event2/event-config.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/uio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/uio.h \
+  /opt/include/event2/util.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdint.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/netdb.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/netinet/in.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/socket.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/socket.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/limits.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sockaddr.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/asm/socket.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/in.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/byteswap.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/rpc/netdb.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/netdb.h \
+  /opt/include/curl/curl.h /opt/include/curl/curlver.h \
+  /opt/include/curl/curlbuild.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h \
+  /opt/include/curl/curlrules.h /opt/include/curl/easy.h \
+  /opt/include/curl/multi.h ../libtransmission/transmission.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h \
+  ../libtransmission/crypto-utils.h ../libtransmission/utils.h \
+  ../libtransmission/error.h ../libtransmission/file.h \
+  ../libtransmission/log.h ../libtransmission/rpcimpl.h \
+  ../libtransmission/variant.h ../libtransmission/quark.h \
+  ../libtransmission/tr-getopt.h ../libtransmission/version.h
+
+/opt/powerpc/powerpc-603e-linux/sys-include/assert.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/features.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/ctype.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/endian.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/endian.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/math.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/huge_val.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/nan.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/mathdef.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/mathcalls.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/mathinline.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/libio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/_G_config.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/wchar.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/gconv.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/stdio_lim.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sys_errlist.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/stdio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdlib.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/types.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/select.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/select.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sigset.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/sysmacros.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/pthreadtypes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sched.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/alloca.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/string.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/string.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/string2.h:
+
+/opt/include/event2/buffer.h:
+
+/opt/include/event2/event-config.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/uio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/uio.h:
+
+/opt/include/event2/util.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdint.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/netdb.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/netinet/in.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/socket.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/socket.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/limits.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sockaddr.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/asm/socket.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/in.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/byteswap.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/rpc/netdb.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/netdb.h:
+
+/opt/include/curl/curl.h:
+
+/opt/include/curl/curlver.h:
+
+/opt/include/curl/curlbuild.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h:
+
+/opt/include/curl/curlrules.h:
+
+/opt/include/curl/easy.h:
+
+/opt/include/curl/multi.h:
+
+../libtransmission/transmission.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h:
+
+../libtransmission/crypto-utils.h:
+
+../libtransmission/utils.h:
+
+../libtransmission/error.h:
+
+../libtransmission/file.h:
+
+../libtransmission/log.h:
+
+../libtransmission/rpcimpl.h:
+
+../libtransmission/variant.h:
+
+../libtransmission/quark.h:
+
+../libtransmission/tr-getopt.h:
+
+../libtransmission/version.h:

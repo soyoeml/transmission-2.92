@@ -1,0 +1,143 @@
+stats.o stats.o: stats.c transmission.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/features.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/stdint.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/time.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h \
+  session.h bandwidth.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/assert.h ptrarray.h utils.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h \
+  bitfield.h net.h /opt/powerpc/powerpc-603e-linux/sys-include/errno.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/errno.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/linux/errno.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/asm/errno.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/socket.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/uio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/types.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/endian.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/endian.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/select.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/select.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sigset.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/sys/sysmacros.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/pthreadtypes.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sched.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/uio.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/socket.h \
+  /opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/limits.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/sockaddr.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/asm/socket.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/netinet/in.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/in.h \
+  /opt/powerpc/powerpc-603e-linux/sys-include/bits/byteswap.h variant.h \
+  quark.h log.h file.h platform.h stats.h
+
+transmission.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/inttypes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/features.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/cdefs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/gnu/stubs.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/stdint.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wchar.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/wordsize.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/time.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stddef.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/time.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/types.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/typesizes.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdbool.h:
+
+session.h:
+
+bandwidth.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/assert.h:
+
+ptrarray.h:
+
+utils.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/stdarg.h:
+
+bitfield.h:
+
+net.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/errno.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/errno.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/linux/errno.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/asm/errno.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/socket.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/uio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/types.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/endian.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/endian.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/select.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/select.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sigset.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/sys/sysmacros.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/pthreadtypes.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sched.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/uio.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/socket.h:
+
+/opt/powerpc/lib/gcc-lib/powerpc-603e-linux/3.3.4/include/limits.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/sockaddr.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/asm/socket.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/netinet/in.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/in.h:
+
+/opt/powerpc/powerpc-603e-linux/sys-include/bits/byteswap.h:
+
+variant.h:
+
+quark.h:
+
+log.h:
+
+file.h:
+
+platform.h:
+
+stats.h:
